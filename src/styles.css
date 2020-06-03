@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #efefef;
+}
+
+.main-content{
+    padding-top: 0px;
+    color: #333;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
